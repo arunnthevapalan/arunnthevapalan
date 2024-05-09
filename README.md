@@ -1,10 +1,11 @@
-### 👋 Hi, I'm Arunn. 
+# 👋 Hi, I'm Arunn. 👨‍💻 📊
+<img src="https://github.com/arunnthevapalan/arunnthevapalan/blob/main/github_banner.png">
 
-I'm a full-time data scientist, and a part time writer.
+I'm a full-time data scientist and a part-time writer.
 
-As a data scientist, I design, develop, and deploy large-scale machine learning solutions to help businesses make better data-driven decisions.
+As a data scientist, I design, develop, and deploy large-scale machine-learning solutions to help businesses make better data-driven decisions.
 
-As a writer, I share my personal experiences from building a data science career, hands-on technical tutorials, and building profitable side-hustles.
+As a writer, I share my personal experiences from building a data science career, hands-on technical tutorials, and building profitable side hustles.
 
 When I'm not working, I'm travelling (I still fear heights), playing badminton, reading, or sipping coffee at a local cafe.
 
